@@ -1,0 +1,4 @@
+[09-May-2021 13:39:05 Europe/Berlin] PHP Notice:  Undefined variable: id in F:\xampp\htdocs\Webbanhang\apps\libs\header.php on line 128
+[09-May-2021 13:39:05 Europe/Berlin] PHP Notice:  Undefined index:  in F:\xampp\htdocs\Webbanhang\apps\libs\header.php on line 128
+[09-May-2021 13:39:16 Europe/Berlin] PHP Notice:  Undefined variable: id in F:\xampp\htdocs\Webbanhang\apps\libs\header.php on line 150
+[09-May-2021 13:39:16 Europe/Berlin] PHP Notice:  Undefined index:  in F:\xampp\htdocs\Webbanhang\apps\libs\header.php on line 150
